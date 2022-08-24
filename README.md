@@ -1,8 +1,7 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif)
 <h1 align="center">Hi 👋, I'm Ashvin A</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="right" alt="WTF" size="400" src="https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashvinrockz" alt="ashvinrockz" /></a> </p>
 
 - 🔭 I’m currently working on **Expense Tracker**
 
