@@ -1,7 +1,7 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif)
-<h1 align="center">Hi 👋, I'm Ashvin </h1>
-<h3 align="center">A passionate data scientist from India</h3>
 
+<h1 align="center">Hi 👋, I'm Ashvin </h1>
+<h3 align="center">A passionate coder from India</h3>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
 - 🔭 I’m currently working on **Managing my work schedule**
 
