@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data scientist from India</h3>
 
 
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m currently working on **Managing my work schedule**
 
 - 🌱 I’m currently learning **Tensorflow**
 
