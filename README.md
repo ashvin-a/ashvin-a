@@ -9,12 +9,13 @@
 
 - 💬 Ask me about **Python, Photography, Android Studio, Unreal Engine**
 
-- 📫 How to reach me **ashvinanilkumarsh@gmail.com**
+- 📫 My mail: **ashvinanilkumarsh@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashvin-a-261690199/](https://www.linkedin.com/in/ashvin-a-261690199/)
 
 - ⚡ Fun fact **I am a quick learner with sharp observation skills**
 
+- 🔥 Learn more about me on
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashvin a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashvin a" height="30" width="40" /></a>
