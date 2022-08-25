@@ -3,7 +3,7 @@
 <h3 align="center">A passionate coder from India</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
-- 🔭 I’m currently working on **Managing my work schedule**
+- 🔭 I’m currently working on **Getting better than yesterday**
 
 - 🌱 I’m currently learning **Tensorflow**
 
