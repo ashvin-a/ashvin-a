@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **Python, Photography, Android Studio, Unreal Engine**
+- 💬 Ask me about **Python, Java, Android Studio, Unreal Engine**
 
 - 📫 My mail: **ashvinanilkumarsh@gmail.com**
 
