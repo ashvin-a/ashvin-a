@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **getting better than yesterday**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Python, Java, Android Studio, Unreal Engine**
 
