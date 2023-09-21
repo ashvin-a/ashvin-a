@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi, I'm Ashvin ⚡ </h1>
-<h3 align="center">An Electronics Enthusiast </h3>
+<h1 align="center">Hi, I'm Ashvin </h1>
+<h3 align="center"> An Electronics Enthusiast </h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
 - 🔭 I’m currently working on **getting better than yesterday**
 
-- 🌱 I’m currently learning **Verilog**
+- 🌱 I’m currently learning **Scientific Computing**
 
 - 💬 Ask me about **Python, STM32, KiCAD**
 
