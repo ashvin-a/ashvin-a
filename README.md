@@ -3,17 +3,15 @@
 <h3 align="center"> An Electronics Enthusiast </h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
-- 🔭 I’m currently working on **getting better than yesterday**
+- I’m currently working on **getting better than yesterday**
 
-- 🌱 I’m currently learning **Scientific Computing**
+- I’m currently learning **Scientific Computing**
 
-- 💬 Ask me about **Python, STM32, KiCAD**
+- Ask me about **Python, STM32, KiCAD**
 
-- 📫 My mail: **ashvinanilkumarsh@gmail.com**
+- My mail: **ashvinanilkumarsh@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashvin-a-261690199/](https://www.linkedin.com/in/ashvin-a-261690199/)
-
-- ⚡ Fun fact **I am a quick learner with sharp observation skills**
+- Know about my experiences [https://www.linkedin.com/in/ashvin-a-261690199/](https://www.linkedin.com/in/ashvin-a-261690199/)
 
 <h3 align="left">Connect with me via:</h3>
 <p align="left">
