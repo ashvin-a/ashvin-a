@@ -7,7 +7,7 @@
 
 - I’m currently learning **Scientific Computing**
 
-- Ask me about **Python, STM32, KiCAD**
+- Ask me about **Python, Raspberry Pi, KiCAD**
 
 - My mail: **ashvinanilkumarsh@gmail.com**
 
