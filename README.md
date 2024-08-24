@@ -6,7 +6,7 @@
 - I’m currently learning **Backend Development**    
 
 - Ask me about **Django, FastAPI, Raspberry Pi, KiCAD**
-- My Current Active Open-Source Projects Are:
+- Actively contributing Open-Source Projects Are:
   **Dataherald** and **LangChain**.
 
 <h3 align="left">Languages and Tools:</h3>
