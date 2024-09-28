@@ -3,9 +3,9 @@
 <h3 align="center"> A Backend Developer/Electronics Enthusiast </h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
-- I’m currently learning **Backend Development**    
+- I’m currently learning **Computer Vision**    
 
-- Ask me about **Django, FastAPI, Raspberry Pi, KiCAD**
+- Ask me about **FastAPI, RAG, Raspberry Pi, KiCAD**
 - Actively contributing Open-Source Projects Are:
   **Dataherald** and **LangChain**.
 
