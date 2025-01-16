@@ -26,3 +26,4 @@
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/> </a>  </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvin-a&show_icons=true&locale=en" alt="ashvin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-a&langs_count=10&hide=html,CSS,Jupyter%20Notebook&layout=donut-vertical" alt="ashvin" /></p>
