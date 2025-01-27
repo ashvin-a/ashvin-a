@@ -7,7 +7,7 @@
 
 - Ask me about **FastAPI, RAG, Raspberry Pi, KiCAD**
 - Actively contributing Open-Source Projects Are:
-  **Dataherald** and **LangChain**.
+  **LlamaIndex** and **LangChain**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
