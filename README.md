@@ -5,7 +5,7 @@
 
 - I’m currently learning **Rust**    
 
-- Ask me about **FastAPI, RAG, Raspberry Pi, KiCAD**
+- Ask me about **RAG, Raspberry Pi, KiCAD and AI**
 - Actively contributing Open-Source Projects Are:
   **LlamaIndex** and **LangChain**.
 
