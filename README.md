@@ -15,7 +15,7 @@
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303239/raspberry-pi-logo.svg" alt="raspberry-pi" width="40" height="40"/> </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="langchain" width="40" height="40"></a>
 <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7K8OlGv64Mu4sLbeZuOr802-kOhPK98IfQ&s" alt="llamaindex" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/STM.D-9a8ecb18.png" alt="stm" width="45" height="39"/> </a> 
 <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/kicad-icon.png" alt="kicad" width="42" height="40"/> </a> 
