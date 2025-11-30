@@ -22,4 +22,6 @@
 <a href="https://www.w3.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-a&langs_count=10&hide=html,CSS,Jupyter%20Notebook&exclude_repo=Single-Cycle-Processor-RISC-V,30-Days-Of-JavaScript,Mi_Amor&layout=donut-vertical" alt="ashvin" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvin-a&show_icons=true&locale=en" alt="ashvin" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-a&langs_count=10&hide=html,CSS,Jupyter%20Notebook&exclude_repo=Django-Blog,30-Days-Of-JavaScript,Mi_Amor&layout=donut-vertical" alt="ashvin" /></p>
+
