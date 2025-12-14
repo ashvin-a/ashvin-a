@@ -23,5 +23,5 @@
 </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvin-a&show_icons=true&locale=en" alt="ashvin" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-a&langs_count=10&hide=html,CSS,Jupyter%20Notebook&exclude_repo=Django-Blog,30-Days-Of-JavaScript,Mi_Amor&layout=donut-vertical" alt="ashvin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvin-a&langs_count=10&hide=html,CSS,Verilog,Jupyter%20Notebook&exclude_repo=Django-Blog,30-Days-Of-JavaScript,Mi_Amor&layout=donut-vertical" alt="ashvin" /></p>
 
