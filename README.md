@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm Ashvin </h1>
-<h3 align="center"> A Roboticts Software Developer/Electronics Enthusiast </h3>
+<h3 align="center"> A Robotics Engineer/Electronics Enthusiast </h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
-- I’m currently learning **Rust** & **Cuda**
+- I’m currently learning **Reinforcement Learning** & **Cuda**
 
-- Ask me about **RAG, Raspberry Pi, ROS and AI**
+- Ask me about **Robotics, Raspberry Pi, ROS and AI**
 - Actively contributing Open-Source Projects Are:
   **LlamaIndex** and **LangChain**.
 
