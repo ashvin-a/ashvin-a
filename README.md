@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Ashvin </h1>
-<h3 align="center"> A Robotics Engineer/Electronics Enthusiast </h3>
+<h3 align="center"> A Robotics Software Engineer </h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif">
 
 - I’m currently learning **Reinforcement Learning** & **Cuda**
