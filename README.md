@@ -4,7 +4,7 @@
 <!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif"> -->
 
 - I’m currently learning **Reinforcement Learning** & **Robotic Perception**
-
+- I'm currently working with **Prof. Josiah Hanna** & **Prof. Dan Negrut** in UW-Madison
 - Ask me about **Robotics, Raspberry Pi, ROS and AI**
 - Actively contributing Open-Source Projects Are:
   **LlamaIndex** and **LangChain**.
