@@ -6,8 +6,8 @@
 - I’m currently learning **Reinforcement Learning** & **Robotic Perception**
 - I'm currently working with **Prof. Josiah Hanna** & **Prof. Dan Negrut** in UW-Madison
 - Ask me about **Robotics, Raspberry Pi, ROS and AI**
-- Actively contributing Open-Source Projects Are:
-  **LlamaIndex** and **LangChain**.
+- Actively contributing Labs Are:
+  **Prediction Action Lab** and **Simulation Based Engineering Lab**.
 
 <h3 align="left">Languages and Tools:</h3>
 
